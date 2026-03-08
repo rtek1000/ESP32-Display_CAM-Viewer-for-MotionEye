@@ -30,6 +30,10 @@ Make sure the Backlight pin (Pin 27 on the CYD) is set to HIGH.
 Upload via PlatformIO.
 
 --------------
+
+See: https://github.com/rtek1000/2.4inch_ESP32-2432S024
+
+--------------
 This library is distributed in the hope that it will be useful, but WITHOUT ANY WARRANTY; without even the implied warranty of MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE
 
 Developed with the help of Google AI Gemini.

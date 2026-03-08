@@ -25,6 +25,8 @@ JPEG Quality: Adjust to 75% or less. This reduces the file size in bytes without
 
 In the main.cpp file, change the ssid, password, and snapshotUrl to your Raspberry Pi's IP address.
 
+![img](https://raw.githubusercontent.com/rtek1000/ESP32-Display_CAM-Viewer-for-MotionEye/refs/heads/main/url.png)
+
 Make sure the Backlight pin (Pin 27 on the CYD) is set to HIGH.
 
 Upload via PlatformIO.

@@ -21,6 +21,12 @@ JPEG Quality: Adjust to 75% or less. This reduces the file size in bytes without
 
 💻 Dependencies
 - TFT_eSPI (Configured for the CYD ILI9341 driver).
-- TJpg_Decoder (For fast JPEG decoding).
+- TJpg_Decoder (For fast JPEG decoding). 🚀 How to test: Clone the repository.
+
+In the main.cpp file, change the ssid, password, and snapshotUrl to your Raspberry Pi's IP address.
+
+Make sure the Backlight pin (Pin 27 on the CYD) is set to HIGH.
+
+Upload via PlatformIO.
 
 Developed with the help of Google AI Gemini.

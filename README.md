@@ -23,6 +23,8 @@ Snapshot URL: Use the endpoint /picture/1/current/.
 
 JPEG Quality: Adjust to 75% or less. This reduces the file size in bytes without affecting the pixel resolution, allowing the ESP32 to process the complete frame.
 
+--------------
+
 💻 Dependencies
 - TFT_eSPI (Configured for the CYD ILI9341 driver).
 - TJpg_Decoder (For fast JPEG decoding). 🚀 How to test: Clone the repository.

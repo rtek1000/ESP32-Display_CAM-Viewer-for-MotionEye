@@ -29,4 +29,7 @@ Make sure the Backlight pin (Pin 27 on the CYD) is set to HIGH.
 
 Upload via PlatformIO.
 
+--------------
+This library is distributed in the hope that it will be useful, but WITHOUT ANY WARRANTY; without even the implied warranty of MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE
+
 Developed with the help of Google AI Gemini.

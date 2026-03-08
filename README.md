@@ -29,6 +29,8 @@ JPEG Quality: Adjust to 75% or less. This reduces the file size in bytes without
 - TFT_eSPI (Configured for the CYD ILI9341 driver).
 - TJpg_Decoder (For fast JPEG decoding). 🚀 How to test: Clone the repository.
 
+--------------
+
 In the main.cpp file, change the ssid, password, and snapshotUrl to your Raspberry Pi's IP address.
 
 ![img](https://raw.githubusercontent.com/rtek1000/ESP32-Display_CAM-Viewer-for-MotionEye/refs/heads/main/url.png)

@@ -31,7 +31,9 @@ Upload via PlatformIO.
 
 --------------
 
-See: https://github.com/rtek1000/2.4inch_ESP32-2432S024
+See:
+- https://github.com/rtek1000/2.4inch_ESP32-2432S024
+- https://github.com/motioneye-project/motioneyeos/releases
 
 --------------
 This library is distributed in the hope that it will be useful, but WITHOUT ANY WARRANTY; without even the implied warranty of MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE
